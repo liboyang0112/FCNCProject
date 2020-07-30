@@ -1,0 +1,11 @@
+This project includes:
+
+1. tools: The external packages used in the analysis, including eigen3, json etc.
+
+2. plotTools: The self-developed package for making plots, latex tables, and fitting class.
+
+3. FCNCAnalsis: The analysis source code.
+
+4. FCNCsupport: The support note for the analysis.
+
+5. thuthesis: My thesis for the doctoral study.
