@@ -9,5 +9,5 @@ if [ -z ${FCNC_DIR+x} ] ; then
 	export FCNC_DIR="$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )"
 	export TOOL_DIR=$FCNC_DIR/tools
 fi
-source PlotTools/env.sh
-source FCNCAnalysis/env.sh
+source $FCNC_DIR/PlotTools/env.sh
+source $FCNC_DIR/FCNCAnalysis/env.sh

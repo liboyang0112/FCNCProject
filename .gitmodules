@@ -16,3 +16,9 @@
 [submodule "TRExFitter"]
 	path = TRExFitter
 	url = git@github.com:liboyang0112/TRExFitter.git
+[submodule "FCNCFigures"]
+	path = FCNCFigures
+	url = git@github.com:liboyang0112/FCNCFigures.git
+[submodule "FCNCTables"]
+	path = FCNCTables
+	url = git@github.com:liboyang0112/FCNCTables.git
