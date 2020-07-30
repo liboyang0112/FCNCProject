@@ -1,3 +1,7 @@
+Author: Boyang Li
+
+Email: liboyang0112@gmail.com
+
 This project includes:
 
 1. tools: The external packages used in the analysis, including eigen3, json etc.
@@ -9,3 +13,7 @@ This project includes:
 4. FCNCsupport: The support note for the analysis.
 
 5. thuthesis: My thesis for the doctoral study.
+
+One button build: source setup.sh
+
+environment setup: source env.sh
