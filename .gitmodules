@@ -1,0 +1,15 @@
+[submodule "FCNCSupport"]
+	path = FCNCSupport
+	url = git@github.com:liboyang0112/FCNCSupport.git
+[submodule "PlotTools"]
+	path = PlotTools
+	url = git@github.com:liboyang0112/PlotTools.git
+[submodule "thuthesis"]
+	path = thuthesis
+	url = git@github.com:liboyang0112/thuthesis.git
+[submodule "tools"]
+	path = tools
+	url = git@github.com:liboyang0112/tools.git
+[submodule "FCNCAnalysis"]
+	path = FCNCAnalysis
+	url = git@github.com:liboyang0112/FCNCAnalysis.git
