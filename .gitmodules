@@ -13,3 +13,6 @@
 [submodule "FCNCAnalysis"]
 	path = FCNCAnalysis
 	url = git@github.com:liboyang0112/FCNCAnalysis.git
+[submodule "TRExFitter"]
+	path = TRExFitter
+	url = git@github.com:liboyang0112/TRExFitter.git
