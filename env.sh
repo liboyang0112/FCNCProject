@@ -8,6 +8,7 @@ if [ -z ${FCNC_DIR+x} ] ; then
 	done
 	export FCNC_DIR="$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )"
 	export TOOL_DIR=$FCNC_DIR/tools
+	export PATH=$PATH:$FCNC_DIR/TRExFitter/build/bin
 fi
 source $FCNC_DIR/PlotTools/env.sh
 source $FCNC_DIR/FCNCAnalysis/env.sh
