@@ -14,8 +14,16 @@ This project includes:
 
 5. thuthesis: My thesis for the doctoral study.
 
+git-lfs is recommended.
+
+Use latest version:
+
+git submodule init
+git submodule update
+git submodule foreach git checkout master
+
 One button build: source setup.sh
 
 environment setup: source env.sh
 
-git-lfs is recommended.
+Build the note: cd FCNCSupport ; make
