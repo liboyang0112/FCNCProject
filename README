@@ -17,3 +17,5 @@ This project includes:
 One button build: source setup.sh
 
 environment setup: source env.sh
+
+git-lfs is recommended.
