@@ -27,3 +27,14 @@ One button build: source setup.sh
 environment setup: source env.sh
 
 Build the note: cd FCNCSupport ; make
+
+Analysis documentations:
+
+	ATLAS analysis glance: https://atlas-glance.cern.ch/atlas/analysis/analyses/details.php?id=3068
+
+	Note cds: https://cds.cern.ch/record/2687866
+
+	Previous analysis note cds: https://cds.cern.ch/record/2273683
+
+	N-tuple production: https://gitlab.cern.ch/atlasHTop/ttHMultiAna for leptonic channels
+						https://gitlab.cern.ch/ATauLeptonAnalysiS/xTauFramework/-/tree/HSM_Production_V03_20200323 for hadronic channels
