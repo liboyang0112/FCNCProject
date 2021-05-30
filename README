@@ -38,3 +38,12 @@ Analysis documentations:
 
 	N-tuple production: https://gitlab.cern.ch/atlasHTop/ttHMultiAna for leptonic channels
 						https://gitlab.cern.ch/ATauLeptonAnalysiS/xTauFramework/-/tree/HSM_Production_V03_20200323 for hadronic channels
+
+	Htautau analysis note: https://cds.cern.ch/record/2741326?
+	                       https://gitlab.cern.ch/ATauLeptonAnalysiS/HtautauAnalysisNotes
+
+	Signal production:	https://its.cern.ch/jira/browse/ATLMCPROD-6235
+
+						https://its.cern.ch/jira/browse/ATLMCPROD-7168
+
+	

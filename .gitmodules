@@ -22,3 +22,6 @@
 [submodule "FCNCTables"]
 	path = FCNCTables
 	url = git@github.com:liboyang0112/FCNCTables.git
+[submodule "fcnc-paper"]
+	path = fcnc-paper
+	url = git@github.com:liboyang0112/fcnc-paper.git
