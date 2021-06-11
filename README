@@ -12,9 +12,7 @@ This project includes:
 
 4. FCNCsupport: The support note for the analysis.
 
-5. thuthesis: My thesis for the doctoral study.
-
-git-lfs is recommended.
+5. fcnc-paper: The paper draft for publication.
 
 Use latest version:
 
@@ -30,20 +28,25 @@ Build the note: cd FCNCSupport ; make
 
 Analysis documentations:
 
-	ATLAS analysis glance: https://atlas-glance.cern.ch/atlas/analysis/analyses/details.php?id=3068
+	ATLAS analysis glance:
+						https://atlas-glance.cern.ch/atlas/analysis/analyses/details.php?id=3068
 
-	Note cds: https://cds.cern.ch/record/2687866
+	Note cds:
+						https://cds.cern.ch/record/2687866
 
-	Previous analysis note cds: https://cds.cern.ch/record/2273683
+	Previous analysis note cds:
+						https://cds.cern.ch/record/2273683
 
-	N-tuple production: https://gitlab.cern.ch/atlasHTop/ttHMultiAna for leptonic channels
+	N-tuple production:
+						https://gitlab.cern.ch/atlasHTop/ttHMultiAna for leptonic channels
 						https://gitlab.cern.ch/ATauLeptonAnalysiS/xTauFramework/-/tree/HSM_Production_V03_20200323 for hadronic channels
 
-	Htautau analysis note: https://cds.cern.ch/record/2741326?
-	                       https://gitlab.cern.ch/ATauLeptonAnalysiS/HtautauAnalysisNotes
+	Htautau analysis note:
+						https://cds.cern.ch/record/2741326?
+	                    https://gitlab.cern.ch/ATauLeptonAnalysiS/HtautauAnalysisNotes
 
-	Signal production:	https://its.cern.ch/jira/browse/ATLMCPROD-6235
-
+	Signal production:
+						https://its.cern.ch/jira/browse/ATLMCPROD-6235
 						https://its.cern.ch/jira/browse/ATLMCPROD-7168
-
+						https://its.cern.ch/jira/browse/ATLMCPROD-9264
 	
